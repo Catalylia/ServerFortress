@@ -58,3 +58,6 @@ Lets you schedule a restart in a number of seconds, then will shutdown and reboo
  7200 = 2 Hours
  10800 = 3 Hours
  18000 = 5 Hours
+
+Type "HELPMEPLZ" to bring up the help doc.
+This command takes the contents of this document and posts it into the console for you to see. 
